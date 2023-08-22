@@ -1,0 +1,30 @@
+expt 5 source file :poem .html 
+
+<html>
+<head>
+<title>Poem</title>
+</head>
+<body>
+<center><pre> 
+<b><i>
+<p><h1>A poem dedicated to indian army</h1><p>
+</i></b>
+
+<h3>Oh! soliders 
+Oh! our brave soldiers,
+Thanks you for being our countrys firm shoulders.
+tricolour flag waving up in the sky,
+keeping in mind you always qaulify.
+
+Oh soliders , because of you we have a peaceful sleep, 
+Taking on the bullets your wounds are so deep. 
+Army is not just a proffesion,
+But it is a love for nation and fearless dedication.
+
+you serve the nation with your blood and sweat,
+Making sure that it is never under a threat.
+Form north to south east to west,
+our country,s solideries are beyond the best 
+<h3></pre></center>
+</body>
+</html>
